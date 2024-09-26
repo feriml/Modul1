@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthSeparatorUI;
-
 public class App {
 
 	public static void main(String[] args)
@@ -10,9 +8,9 @@ public class App {
 		Cartridge zeldaGold = new Cartridge("The Adventures of Zelda", 300.00, "Keller, UG", true, "Nintendo", Konsolentyp.NES);
 		Buch herr = new Buch("Herr der Ringe", 49.99, "Wohnzimmer, OG", "1234565432123");
 		
-		bib.mediumHinzufügen(heman);
-		bib.mediumHinzufügen(zeldaGold);
-		bib.mediumHinzufügen(herr);
+		bib.mediumHinzufuegen(heman);
+		bib.mediumHinzufuegen(zeldaGold);
+		bib.mediumHinzufuegen(herr);
 		
 		bib.alleMedienAusgeben();
 		

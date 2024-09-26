@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
-
 public class Medienbibliothek {
 	
 	private ArrayList<Medium> medienliste; //Ersetzbarkeit verwendet
@@ -10,7 +8,7 @@ public class Medienbibliothek {
 		this.medienliste = new ArrayList<>();
 	}
 	
-	public void mediumHinzufügen(Medium m)
+	public void mediumHinzufuegen(Medium m)
 	{
 		this.medienliste.add(m);
 	}
