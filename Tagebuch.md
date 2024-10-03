@@ -28,5 +28,13 @@ Ich verstehe jetzt besser wie Vererbung funktioniert.
 
 Video 2 - Polymorphie. In diesem Video wurde
 vertiefend nochmal über Polymorphie gesprochen.
-Es wurde der Unterschied zwischen statischen und dynamischen Typen erklärt.
-Es wurde der Zugangsmodifikator protected näher erklärt und vieles mehr.
+Es wurde der Unterschied zwischen statischen und
+dynamischen Typen erklärt.
+Es wurde der Zugangsmodifikator protected näher erklärt
+und vieles mehr.
+
+### Video 3 - Zentrale Konzepte
+
+Video 3 - Zentrale Konzepte angesehen und verstanden.
+Im Video wurden die Themen Vererbung, Überschreiben von
+Methoden, Ersetzbarkeit und Dynamische Bindung nochmals erklärt.
