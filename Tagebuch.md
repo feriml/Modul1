@@ -38,3 +38,8 @@ und vieles mehr.
 Video 3 - Zentrale Konzepte angesehen und verstanden.
 Im Video wurden die Themen Vererbung, Überschreiben von
 Methoden, Ersetzbarkeit und Dynamische Bindung nochmals erklärt.
+
+### Video 4 - Vorgangsweise für polymorphe Codestrukturen
+
+Video 4 - Vorgangsweise für polymorphe Codestrukturen angesehen und verstanden. Im Video wurde
+die Vorgangsweise der Ausimplementierung einer Vererbungshierarchie gezeigt und erklärt.
